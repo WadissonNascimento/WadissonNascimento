@@ -1,18 +1,20 @@
 # Olá, eu sou o Wadisson Nascimento 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em processo de transição para a área de tecnologia, com foco em **desenvolvimento web**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha caminhada na área de tecnologia.
 
-Atualmente venho estudando e desenvolvendo projetos práticos para evoluir minhas habilidades em **frontend, backend, banco de dados e APIs**.
+Atualmente, venho estudando desenvolvimento web e colocando em prática o que aprendo através de projetos reais, principalmente envolvendo **HTML, CSS, JavaScript, Python, Flask, PostgreSQL e Supabase**.
 
-## 🚀 Sobre mim
+Ainda estou em evolução, mas gosto de aprender na prática, quebrar a cabeça, entender como as coisas funcionam de verdade e transformar ideias em projetos que possam resolver problemas reais.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Foco em desenvolvimento web
-- 📚 Estudando Python, Flask, JavaScript, PostgreSQL e Supabase
-- 🛠️ Desenvolvendo projetos práticos para pequenos negócios
-- 🎯 Buscando minha primeira oportunidade na área de tecnologia
+## Sobre mim
 
-## 🧠 Tecnologias que estou estudando
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Em busca da minha primeira oportunidade na área de tecnologia
+- Foco em desenvolvimento web
+- Estudando frontend, backend, banco de dados e APIs
+- Desenvolvendo projetos práticos para ganhar experiência real
+
+## Tecnologias que estou estudando
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,22 +25,23 @@ Atualmente venho estudando e desenvolvendo projetos práticos para evoluir minha
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-## 💼 Projetos em desenvolvimento
+## O que estou desenvolvendo
 
-Atualmente estou trabalhando em projetos voltados para desenvolvimento web, como:
+Atualmente estou trabalhando em projetos para praticar e evoluir como desenvolvedor, incluindo:
 
-- Sistema de agendamentos online
+- Sistemas de agendamento online
 - Cadastro e login de usuários
 - Integração com banco de dados
-- Consumo e criação de APIs
+- APIs com Python e Flask
 - Interfaces web com HTML, CSS e JavaScript
 
-## 📌 Objetivo
+## Meu objetivo
 
-Meu objetivo é conquistar uma oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aprender com projetos reais, evoluir tecnicamente e contribuir com dedicação, responsabilidade e vontade de crescer.
+Meu objetivo é conquistar uma oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aprender com profissionais mais experientes, participar de projetos reais e continuar evoluindo todos os dias.
 
-## 📫 Contato
+Acredito que a prática, a constância e a vontade de aprender são fundamentais para crescer na tecnologia.
 
-- LinkedIn: coloque aqui seu link
-- GitHub: coloque aqui seu link
-- E-mail: coloque aqui seu e-mail
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/wadisson-nascimento-b17b13200/
+- E-mail: wadisson97.w.g@gmail.com
